@@ -19,10 +19,15 @@ Contains the original dataset zip files exactly as released.
 Example:
 
 > epstein-files-doj-YYYY-MM-DD-raw/
+> 
 >  dataset-01.zip
+> 
 >  dataset-02.zip
+> 
 >  ...
+> 
 >  dataset-12.zip
+> 
 >  SHA256SUMS.txt
 
 Rules:
@@ -43,12 +48,19 @@ Contains the fully extracted contents of each dataset.
 Example:
 
 > epstein-files-doj-YYYY-MM-DD-full/
+> 
 >  dataset-01/
+> 
 >    [all extracted files]
+> 
 >  dataset-02/
+> 
 >  ...
+> 
 >  dataset-12/
+> 
 >  SHA256SUMS.txt
+> 
 >  MANIFEST.txt
 
 Rules:
@@ -69,13 +81,21 @@ Contains only PDF files extracted from each dataset.
 Example:
 
 > epstein-files-doj-YYYY-MM-DD-pdf-only/
+> 
 >  dataset-01/
+> 
 >    *.pdf
+> 
 >  dataset-02/
+> 
 >    *.pdf
+> 
 >  ...
+> 
 >  dataset-12/
+> 
 >  SHA256SUMS.txt
+> 
 >  MANIFEST.txt
 
 Rules:
