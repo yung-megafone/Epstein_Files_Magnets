@@ -311,7 +311,7 @@ You may see DS9 in multiple partial forms:
   magnet:?xt=urn:btih:f5cbe5026b1f86617c520d0a9cd610d6254cbe85&dn=epstein-files-structured-full-20250204.tar.zst&xl=221393230690
   ```
 
-SHA256: 29acc987cd7fadfbbf94444ed165750b84d82c85af3703bab74308ea9e91e910
+**SHA256:** 29acc987cd7fadfbbf94444ed165750b84d82c85af3703bab74308ea9e91e910
 
 > Verification Status:
 > This archive is currently being downloaded and verified by maintainers.
@@ -423,6 +423,8 @@ https://archive.org/details/combined-all-epstein-files/COMBINED_ALL_EPSTEIN_FILE
   ```text
   magnet:?xt=urn:btih:03d260e3e5d455379d40cd36ded08d5f47228ad7&dn=DataSet%201.zip&xl=1321480300&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce
   ```
+
+**SHA256:** 598F4D2D71F0D183CF898CD9D6FB8EC1F6161E0E71D8C37897936AEF75F860B4
 
 ---
 
@@ -565,13 +567,13 @@ ym's compiled flattened PDFs
 
 * **Torrent magnet (⚠ Incomplete - 94.58 GB / 180 GB ⚠):** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
 
+Only contains **94.58 GB** of **180 GB**.
+
+Note: This is a VERY early seed. This only contains a compiled and flattened folder of PDF files — NO NATIVES. Bandwith isn't great, so please be patient and report any issues.
+
   ```text
   magnet:?xt=urn:btih:286060d26392042a5e2b5354d09ec7c7c5cee7dc&dn=dataset-09%20%28Incomplete%29&xl=101565025420&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
-  
-Only contains **94.58 GB** of **180 GB**.
-
-Note: This is a VERY early seed. This only contains a compiled and flattened folder of PDF files — NO NATIVES. Bandwith idnt great so please be patient and report any issues.
 
 * **Torrent magnet (⚠ Incomplete - 49 GB / 180 GB ⚠):** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:0a3d4b84a77bd982c9c2761f40944402b94f9c64&dn=DataSet9-incomplete.zip&xl=48995762176&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
 
