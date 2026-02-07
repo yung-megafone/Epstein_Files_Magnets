@@ -17,7 +17,7 @@ Quick availability overview of all currently indexed datasets:
 ![DataSet%206](https://img.shields.io/badge/DataSet%206-51.2%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![DataSet%207](https://img.shields.io/badge/DataSet%207-96.9%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![DataSet%208](https://img.shields.io/badge/DataSet%208-9.95%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
-![DataSet%209](https://img.shields.io/badge/DataSet%209-94.58%20GB%20%7C%20~99.5%25%20Reconstructed-orange?style=for-the-badge)
+![DataSet%209](https://img.shields.io/badge/DataSet%209-94.58%20GB%20%7C%20~99.89%25%20Reconstructed-orange?style=for-the-badge)
 ![DataSet%2010](https://img.shields.io/badge/DataSet%2010-78.6%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![DataSet%2011](https://img.shields.io/badge/DataSet%2011-25.5%20GB%20%7C%20Available-brightgreen?style=for-the-badge)
 ![DataSet%2012](https://img.shields.io/badge/DataSet%2012-114%20MB%20%7C%20Available-brightgreen?style=for-the-badge)
@@ -231,14 +231,18 @@ Compare output to the hash listed in this repo.
 
 ### What “~99.9%” means (high-level)
 
-* The dataset appears to contain **~531,307** expected `IMAGES` entries (PDF) based on `.DAT`.
+* The dataset appears to contain **~531,307** expected `IMAGES` entries (PDFs) based on `.DAT` manifests.
 * Current merged sources yield **~531,282** PDF files.
 * That implies **~25 PDFs** remain missing.
-* Additional missing content is believed to be `NATIVES` (media such as audio/video) — on the order of **~135 files** (estimate may change).
-* The remaining “missing size” is therefore likely **not PDFs**, but mostly `NATIVES`.
+* In addition, Data Set 9 includes an estimated **~2,542 expected `NATIVES` (media files)**.
+* Of those, **~1,983 NATIVES** have been confirmed as **directly recoverable from DOJ sources**.
+* The remaining native/media entries appear as **small placeholder files** or lack publicly accessible DOJ endpoints.
 
-> **Important:** This repo does not claim Data Set 9 is fully complete or canonical.  
-> It documents the best-known public reconstruction status at the time of writing.
+Taken together, this places Data Set 9 at approximately **~99.9% complete by file count**,  
+where completeness reflects **PDFs + recoverable native/media files**, not byte-for-byte parity.
+
+> **Important:** This repository does **not** claim Data Set 9 is fully complete or canonical.  
+> It documents the best-known public reconstruction status based on community analysis at the time of writing.
 
 **Additional notes:**
 * Multiple users report DOJ download failures, HTTP 404s, paginator errors, and IP-based blocking when attempting to retrieve Data Set 9.
