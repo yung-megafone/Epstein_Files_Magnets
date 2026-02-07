@@ -491,13 +491,22 @@ https://archive.org/details/combined-all-epstein-files/COMBINED_ALL_EPSTEIN_FILE
 
 ### <a id="data-set-1"></a>Data Set 1
 
-**Data Set 1 (1.23 GB)**
+
+**DataSet 1 (1.23 GB)**
 
 * **[ORIGINAL JUSTICE DEPARTMENT LINK](https://www.justice.gov/epstein/files/DataSet%201.zip)**
 
   ```text
   https://www.justice.gov/epstein/files/DataSet%201.zip
   ```
+
+* **Torrent magnet:** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:6bfa388c07dc787e3bbd91df6f4c7c4638a7dc0f&dn=DataSet%201&xl=1327457599&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce)**
+
+  ```text
+  magnet:?xt=urn:btih:6bfa388c07dc787e3bbd91df6f4c7c4638a7dc0f&dn=DataSet%201&xl=1327457599&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
+  ```
+
+**DataSet 1.zip (1.23 GB)**
 
 * **Torrent magnet:** **[TORRENT MAGNET LINK](magnet:?xt=urn:btih:03d260e3e5d455379d40cd36ded08d5f47228ad7&dn=DataSet%201.zip&xl=1321480300&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce)**
 
