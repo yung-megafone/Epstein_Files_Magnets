@@ -49,9 +49,8 @@ https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_1
 * [How to Torrent the Magnet Links](#how-to-torrent-the-magnet-links)
 * [Hash Verification](#hash-verification)
 * [Datasets](#datasets)
-  * [Quick Jumps](#quick-jumps)
   * [Structured Dataset (Mostly Full)](#structured-dataset-full)
-  * [Data Sets 1–8, 10-12 (Internet Archive)](#data-sets-1-8-internet-archive)
+  * [Data Sets 1–8, 11–12 (Internet Archive)](#data-sets-1-8-internet-archive)
   * [Data Set 1](#data-set-1)
   * [Data Set 2](#data-set-2)
   * [Data Set 3](#data-set-3)
@@ -339,7 +338,7 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 ### <a id="quick-jumps"></a>Quick Jumps
 
 * [Structured Dataset (Mostly Full)](#structured-dataset-full)
-* [Data Sets 1–8 (Internet Archive)](#data-sets-1-8-internet-archive)
+* [Data Sets 1–8, 11–12 (Internet Archive)](#data-sets-1-8-internet-archive)
 * [1](#data-set-1) · [2](#data-set-2) · [3](#data-set-3) · [4](#data-set-4) · [5](#data-set-5) · [6](#data-set-6)
 * [7](#data-set-7) · [8](#data-set-8) · [9](#data-set-9-incomplete) · [10](#data-set-10) · [11](#data-set-11) · [12](#data-set-12)
 
@@ -445,7 +444,7 @@ Source repository: https://github.com/yung-megafone/Epstein-Files
 
 ### <a id="data-sets-internet-archive"></a>Data Sets (Internet Archive)
 
-**Epstein Files Data Sets 1-8, 10-12: [LINK](https://archive.org/download/Epstein-Data-Sets-So-Far)**
+**Epstein Files Data Sets 1-8, 11-12: [LINK](https://archive.org/download/Epstein-Data-Sets-So-Far)**
 
 ```text
 https://archive.org/download/Epstein-Data-Sets-So-Far
@@ -793,8 +792,7 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
 
 #### Notes
 
-See: [Notes on Data Set 9](#notes-on-data-set-9),
-<!--  [History](/notes/DS09/README.md) -->
+See: [Notes on Data Set 9](/notes/DS09/README.md)
 
 ---
 
