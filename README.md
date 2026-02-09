@@ -670,13 +670,7 @@ Source repository: https://github.com/yung-megafone/Epstein-Files
 
 ---
 
-### <a id="data-sets-internet-archive"></a>Data Sets (Internet Archive)
-
-**Epstein Files Data Sets 1-8, 10-12: [LINK](https://archive.org/download/Epstein-Data-Sets-So-Far)**
-
-```text
-https://archive.org/download/Epstein-Data-Sets-So-Far
-```
+<!-- IA -->
 
 
 ---
