@@ -1,0 +1,28 @@
+VOL00009
+	Files: 533,608
+	Size: 191,571,757,873 bytes
+	Expected Files: 533,849
+	Hashes: VOL00009.sha256
+
+VOL00009\DATA
+	Files: 2
+	Size: 88,200,813 bytes
+	Status: Fully Recovered
+
+VOL00009\IMAGES
+	Files: 531,282
+	Size: 101,476,824,607 bytes
+	Status: 25 Files missing
+
+	Missing List: MISSING_EFTA_IMAGES.txt
+	Expected Files: 531,307
+	Expected Files informed by DAT/OPT in: VOL00009\DATA
+
+VOL00009\NATIVES
+	Files: 2,324
+	Size: 90,006,732,453 bytes
+	Status: 218 Files missing minimum (25 more possible from missing \IMAGES)
+
+	Missing List: not-found-cache-epstein.txt, disappeared.csv
+	Expected Files: 2,542
+	Expected Files informed by placeholder PDFs of sizes: 4670 bytes, 2433 bytes
