@@ -768,7 +768,7 @@ https://archive.org/download/Epstein-Data-Sets-So-Far
   magnet:?xt=urn:btih:9c1f0a021459938e2446310beea5e43a17509a19&xt=urn:btmh:122076e576d49af5705f53b768621d85232c36452d4777ed23f10c18c72bb9fe109c&dn=dataset9_reconstructed_20260110.tar.zst&xl=181137604550&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce
   ```
 
-* **SHA256:** _pending_
+* **SHA256:** 1472d41d66b069423ed804ceee3d47bc6d307be0daa05d0efe5a38df2d4469e5
 
 * **Notes:** *file contents unverified, posted to assist with seeding as this seems to be the most complete set thus far*
 
