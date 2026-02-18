@@ -342,6 +342,11 @@ https://github.com/yung-megafone/Epstein-Files/issues/4
 
 ---
 
+> [!WARNING]  
+> For copyparty resources, please do not use more than 1 connection while downloading a file, thank you.
+
+---
+
 <!-- ========================================================= -->
 
 <!-- ====================== DATA SETS ========================= -->
