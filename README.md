@@ -44,11 +44,11 @@ The original release is distributed across many separate `.zip` archives. Commun
 
 **How to help:** seed torrents, mirror responsibly, and verify hashes when provided.
 
-**Initial Inspiration (DataHoarder):**  
-<https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/>
+**Initial Inspiration (DataHoarder):**
+<https://web.archive.org/web/20260131175929/https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/>
 
 ```text
-https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/
+https://web.archive.org/web/20260131175929/https://old.reddit.com/r/DataHoarder/comments/1qrk3qk/epstein_files_datasets_9_10_11_300_gb_lets_keep/
 ```
 
 ---
